@@ -4,6 +4,10 @@ import xml.etree.ElementTree as ET
 from io import BytesIO
 import numpy as np
 from heatmap_design import plot_training_heatmap
+from analytics_injector import inject_ga
+
+inject_ga("G-SL663FRXR7")
+
 
 # --- Data Cleaning Functions ---
 
