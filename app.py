@@ -8,6 +8,11 @@ from analytics_injector import inject_ga
 
 inject_ga("G-SL663FRXR7")
 
+st.markdown("""
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-567CF8XR"
+height="0" width="0" style="display:none;visibility:hidden"></iframe>
+""", unsafe_allow_html=True)
+
 
 # --- Data Cleaning Functions ---
 
