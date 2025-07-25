@@ -25,7 +25,7 @@ Just upload your `export.xml` or a filtered `.csv` and instantly see your traini
 
 ## 🔍 Example
 
-![Example heatmap](screenshots/example.png)
+![Example heatmap](examples/example.png)
 *See how your training consistency evolves over the year!*
 
 ---
