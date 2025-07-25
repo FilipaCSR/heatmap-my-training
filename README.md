@@ -80,3 +80,6 @@ If you enjoy it, [Buy Me a Coffee](https://www.buymeacoffee.com/filipacsr) ☕
 ---
 
 Built with ❤️ by [Filipa](https://medium.com/@filipacsr)
+=======
+# heatmap-my-training
+Visualize your Apple Health exercise data with heatmaps. Just upload your export.xml and get yearly insights - no code needed!
