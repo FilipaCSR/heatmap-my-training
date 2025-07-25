@@ -18,7 +18,7 @@ Just upload your `export.xml` or a filtered `.csv` and instantly see your traini
 
 ## 🔄 Try it Live
 
-> [https://your-username.streamlit.app](https://your-username.streamlit.app)  
+> [https://your-username.streamlit.app](https://heatmap-my-training.streamlit.app/)  
 > *(Replace with your real URL after deployment)*
 
 ---
