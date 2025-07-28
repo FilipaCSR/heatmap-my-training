@@ -1,0 +1,5 @@
+# .gitignore
+.venv/
+data/
+*.csv
+*.xml
