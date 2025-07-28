@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Heatmap My Training 📊
 
 Visualize your Apple Health exercise data with heatmaps.  
@@ -87,3 +88,25 @@ If you enjoy it, [Buy Me a Coffee](https://www.buymeacoffee.com/filipacsr) ☕
 ---
 
 Built with ❤️ by [Filipa](https://medium.com/@filipacsr)
+=======
+---
+title: Heatmap My Training
+emoji: 🚀
+colorFrom: red
+colorTo: red
+sdk: docker
+app_port: 8501
+tags:
+- streamlit
+pinned: false
+short_description: Visualize your Apple Health training as elegant heatmaps.
+license: mit
+---
+
+# Welcome to Streamlit!
+
+Edit `/src/streamlit_app.py` to customize this app to your heart's desire. :heart:
+
+If you have any questions, checkout our [documentation](https://docs.streamlit.io) and [community
+forums](https://discuss.streamlit.io).
+>>>>>>> abc3b9a659537441f2242afba5e55921910754e9
