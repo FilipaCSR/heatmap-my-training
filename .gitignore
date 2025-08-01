@@ -3,3 +3,5 @@
 data/
 *.csv
 *.xml
+*.dll
+*.map
