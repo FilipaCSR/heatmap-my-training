@@ -3,6 +3,6 @@ browser.gatherUsageStats = false
 
 [server]
 headless = true
-port = 8501
+port = 7860
 enableCORS = false
 enableXsrfProtection = false
