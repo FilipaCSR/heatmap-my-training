@@ -1,7 +1,9 @@
 # .gitignore
 .venv/
+__pycache__/
 data/
 *.csv
 *.xml
 *.dll
 *.map
+*.DS_Store
