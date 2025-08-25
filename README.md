@@ -18,7 +18,7 @@ Just upload your `export.xml` or a filtered `.csv` and instantly see your traini
 
 ## 🔄 Try it Live
 
-(https://huggingface.co/spaces/filipacsr/heatmap-my-training)](https://huggingface.co/spaces/filipacsr/heatmap-my-training)
+[https://huggingface.co/spaces/filipacsr/heatmap-my-training](https://huggingface.co/spaces/filipacsr/heatmap-my-training)
 ---
 
 ## 🔍 Example
@@ -85,17 +85,4 @@ If you enjoy it, [Buy Me a Coffee](https://www.buymeacoffee.com/filipacsr) ☕
 ---
 
 Built with ❤️ by [Filipa](https://medium.com/@filipacsr)
-=======
----
-title: Heatmap My Training
-emoji: 🚀
-colorFrom: red
-colorTo: red
-sdk: docker
-app_port: 8501
-tags:
-- streamlit
-pinned: false
-short_description: Visualize your Apple Health training as elegant heatmaps.
-license: mit
----
+
