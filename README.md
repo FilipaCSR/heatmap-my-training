@@ -1,7 +1,7 @@
 # Heatmap My Training 📊
 
 Visualize your Apple Health exercise data with heatmaps.  
-Just upload your `export.xml` or a filtered `.csv` and instantly see your training trends for the year. **No code required!**
+Just upload your `export.xml`, the original .zip or a filtered `.csv` and instantly see your training trends for the year. **No code required!**
 
 ---
 
