@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Heatmap My Training 📊
 
 Visualize your Apple Health exercise data with heatmaps.  
@@ -19,9 +18,7 @@ Just upload your `export.xml` or a filtered `.csv` and instantly see your traini
 
 ## 🔄 Try it Live
 
-> [https://your-username.streamlit.app](https://heatmap-my-training.streamlit.app/)  
-> *(Replace with your real URL after deployment)*
-
+(https://huggingface.co/spaces/filipacsr/heatmap-my-training)](https://huggingface.co/spaces/filipacsr/heatmap-my-training)
 ---
 
 ## 🔍 Example
@@ -102,11 +99,3 @@ pinned: false
 short_description: Visualize your Apple Health training as elegant heatmaps.
 license: mit
 ---
-
-# Welcome to Streamlit!
-
-Edit `/src/streamlit_app.py` to customize this app to your heart's desire. :heart:
-
-If you have any questions, checkout our [documentation](https://docs.streamlit.io) and [community
-forums](https://discuss.streamlit.io).
->>>>>>> abc3b9a659537441f2242afba5e55921910754e9
